@@ -1,6 +1,6 @@
 <?php
 
-namespace DN\Drupal;
+namespace DN\D;
 
 /**
  * Global settings definitions.
