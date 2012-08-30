@@ -4,6 +4,16 @@ namespace DN\D;
 
 /**
  * Global settings definitions.
+ *
+ * Usage:
+ *   - Make sure this file can be autoloaded
+ *     (more explanation in the General DND Installation Manual).
+ *     @TODO: Create a General DND Installation Manual.
+ *   - Put in your settings.php the following code:
+ *     $DND = new DN\D\Settings;
+ *     $DND->apply();
+ *   - ???
+ *   - Profit!
  */
 class Settings
 {
